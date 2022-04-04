@@ -6,4 +6,4 @@
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/QWqzbEz
 
-## Part One: 
+## Part One: https://vladimirsaenko.github.io/gloveofthanos-RandomPhotos/
