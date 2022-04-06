@@ -1,4 +1,4 @@
-# gloveofthanos-RandomPhoto/s
+# gloveofthanoseffect-RandomPhoto/s
  
 ## Сайт с эффектом как у перчатки Бесконечности и случайными изображениями
 
