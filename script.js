@@ -22,6 +22,6 @@ for(let i = 0; i < 10; i++) {
     }
 }
 
-setTimeout(() =>{
+setTimeout(() => {
     location.reload();
 } , time);
